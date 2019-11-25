@@ -2,7 +2,9 @@
 #### please read issues
 
 图解HTTP https://github.com/cassiehuang/study/issues/26
+
 《ECMAScript 6 入门》 https://github.com/cassiehuang/study/issues/18
+
 webpack  https://github.com/cassiehuang/study/issues/17
 使用百度地图api https://github.com/cassiehuang/study/issues/38
 杂记 https://github.com/cassiehuang/study/issues/21
