@@ -4,19 +4,18 @@
 #### 使用百度地图api https://github.com/cassiehuang/study/issues/38
 #### 杂记 https://github.com/cassiehuang/study/issues/21
 #### work-daily  https://github.com/cassiehuang/study/issues/12
-\n
+-------------------------------------------------------------------------
 #### vue ssr https://github.com/cassiehuang/study/issues/16
 #### eslint prettier vscode格式化配置 https://github.com/cassiehuang/study/issues/37
 #### vue-i18n实现机制  https://github.com/cassiehuang/study/issues/34
 #### 创建自己的组件库包  https://github.com/cassiehuang/study/issues/31
 #### 静态站点构建 https://github.com/cassiehuang/study/issues/29
-\n
-
+-------------------------------------------------------------------------
 #### 搭建云服务器  https://github.com/cassiehuang/study/issues/35
 #### mongodb   https://github.com/cassiehuang/study/issues/36
 #### GraphQL  https://github.com/cassiehuang/study/issues/30
 #### 代理 https://github.com/cassiehuang/study/issues/14
-\n
+------------------------------------------------------------------
 #### 再理解事件机制  https://github.com/cassiehuang/study/issues/33
 #### 你不知道的javascript   https://github.com/cassiehuang/study/issues/32
 #### 浏览器缓存机制 https://github.com/cassiehuang/study/issues/28
